@@ -1,0 +1,4 @@
+name: ShaAuth
+version: '${project.version}'
+main: com.licwim.shaauth.ShaAuth
+api-version: '1.20'
